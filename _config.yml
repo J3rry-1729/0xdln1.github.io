@@ -40,7 +40,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: blockequity # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Google Analytics
@@ -88,5 +88,5 @@ sass:
 
 # Twitter Schema
 twitter:
-  username: block_equity
+  username: 0xdln1
   card: summary
