@@ -3,8 +3,8 @@
 # General Site Settings
 title: 0xdln
 logo: /images/logo.svg # You can add own logo. For example '/images/logo.png'.
-tagline: Ethereum Dev Shop & Dapp Marketing Agency
-description: Ethereum education, tutorials, and breakdowns of the next frontier of the internet - Web3 and the Ethereum super computer.
+tagline: CyberSecurity Enthusiast
+description: Computer Science Student and a CyberSec Enthusiast.
 baseurl: "/" # The subpath of your site, e.g. /blog
 url: "http://0xdln1.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
